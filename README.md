@@ -109,7 +109,7 @@ Follow these steps to get the TSI Aadhaar Vault Plus solution running on your lo
 4.  **Initialize PostgreSQL Database Schema:**
     The `postgres` Docker image only runs initialization scripts on its *first* startup when the data directory is empty. To ensure your schema is loaded:
     ```bash
-    docker-compose down -v # Stops containers, removes networks AND volumes (clears old DB data)
+    docker-compose down -v 
     ```
 
 5.  **Build and Start Docker Services:**
@@ -163,7 +163,7 @@ These steps describe how to install and run the TSI Aadhaar Vault Plus solution 
     ```bash
     cd /path/to/tsi-aadhaar-vault-plus/server
     cp .example .env
-    ...
+    ```
     Now, **edit the newly created `.env` file** and fill in the placeholder values.
    
     ```bash
@@ -174,7 +174,7 @@ These steps describe how to install and run the TSI Aadhaar Vault Plus solution 
    ```bash
    cd /path/to/tsi-aadhaar-vault-plus/server
    copy .example .env
-   ...
+   ```
    Now, **edit the newly created `.env` file** and fill in the placeholder values.
    
    ```bash

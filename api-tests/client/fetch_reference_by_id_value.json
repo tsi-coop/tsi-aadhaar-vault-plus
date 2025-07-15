@@ -1,0 +1,5 @@
+{
+  "_func": "fetch_reference_by_id_value",
+  "idType": "AADHAAR",
+  "idNumber": "123456789012"
+}
