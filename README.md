@@ -189,4 +189,4 @@ For Admin Setup & API Endpoints, refer to the [User Guide](https://github.com/ts
 
 ## Support
 
-To submit your request, sign up at [TSI Coop](https://tsicoop.org) and visit the Engage > Support section.
+To submit your request, sign up at [TSI Digital Hub](https://tsicoop.org) and visit the Engage > Support section.
