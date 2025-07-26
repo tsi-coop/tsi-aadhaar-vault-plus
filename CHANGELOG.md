@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.1.0 (YYYY-MM-DD)
+## v0.1.0 (27-07-2025)
 
 ### Added
 - Initial release of TSI Aadhaar Vault Plus.
