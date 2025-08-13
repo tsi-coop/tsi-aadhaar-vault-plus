@@ -83,7 +83,7 @@ Follow these steps to get the TSI Aadhaar Vault Plus solution running on your lo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/tsi-cooperative/tsi-aadhaar-vault-plus.git
+    git clone https://github.com/tsi-coop/tsi-aadhaar-vault-plus.git
     cd tsi-aadhaar-vault-plus
     ```
 
@@ -131,7 +131,7 @@ These steps describe how to install and run the TSI Aadhaar Vault Plus solution 
 
 1.   **Clone the Repository:**
      ```bash
-     git clone https://github.com/tsi-cooperative/tsi-aadhaar-vault-plus.git
+     git clone https://github.com/tsi-coop/tsi-aadhaar-vault-plus.git
      cd tsi-aadhaar-vault-plus
      ```
 
@@ -189,4 +189,4 @@ For Admin Setup & API Endpoints, refer to the [User Guide](https://github.com/ts
 
 ## Support
 
-To submit your request, sign up at [TSI Digital Hub](https://tsicoop.org) and visit the Engage > Support section.
+To submit your request, sign up at [TSI Community](https://tsicoop.org) and visit the Engage > Support section.
