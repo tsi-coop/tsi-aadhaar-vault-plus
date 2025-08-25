@@ -4,6 +4,8 @@ A secure, and compliant solution for organizations to manage Aadhaar ID.
 
 The "Plus" in the solution's name signifies its expanded capability to securely vault other sensitive Indian identification numbers like Voter ID and ABHA ID, providing a unified and extensible framework for managing diverse sensitive identifiers.
 
+A high level design of the solution is captured [here](https://techadvisory.substack.com/p/solution-explainer-aadhaar-vault).
+
 ## Prerequisites
 
 Before you begin, ensure you have the following software installed on your development machine or server:
